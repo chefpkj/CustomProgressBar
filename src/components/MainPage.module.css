@@ -1,0 +1,29 @@
+
+
+.percent{
+    /* width: 0.052vw;
+    height: 0.74vh; */
+    background: #01A63E;
+    width: 1px;
+    height: 8px;
+}
+.eachBox{
+    background: #6a6a6a;
+    /* width: 1.042vw;
+    height: 0.74vh; */
+    width: 20px;
+    height: 8px;
+    margin: 2px;
+    display: flex;
+    border-radius: 24px;
+    overflow: hidden;
+}
+.progressBar{
+    display: flex;
+    margin: 20px;
+
+
+}
+
+
+
